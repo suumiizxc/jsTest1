@@ -1,0 +1,12 @@
+git init // initialize
+
+git config --global user.name "Suumii" // Set username 
+git config --global user.email "ch.sumyadorj@gmail.com" // Set email of users
+
+git status // Check status
+
+git add xxxxx.xx // add file 
+
+git commit -m "Add new update of xxxxx.xx file"
+
+git status
